@@ -1,4 +1,3 @@
- EXPLAINABLE-AI-FOR-RESEARCH
  This project focuses on leveraging Explainable AI (XAI) techniques to enhance interpretability in research, particularly in machine learning models.
  It aims to provide insights into model predictions, enabling better understanding and trust in AI-driven decisions.
 
