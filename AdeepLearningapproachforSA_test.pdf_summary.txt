@@ -1,0 +1,1 @@
+a deep learning approach for Sentiment Analysis of Movie Reviews was published in june 2020. it is very important for the organization to know the feedback on their product. the movie production team wants to know the user reviews about their movie that help the production team to analyze their work.
